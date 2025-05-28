@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: PCPad
+  m_Controller: {fileID: 9100000, guid: b9f1a440f1094a24d98cc259ebcffbc0, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 04e5c02366e10724ab3409711e117039, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 26d3a35114b3fd1458f3e057af6cddb9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 88754d0c72c17ec4b9ec6b9b1d818a69, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: c79a5a6306f08f44bbc41de9ceab1c85, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 6365629ba91a70742b38dd901eea5392, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 67c7f7a3dce0eea438a86cdaf66d4a84, type: 2}
